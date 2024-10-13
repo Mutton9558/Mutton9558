@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://preview.redd.it/ayano-kimishima-roshidere-light-novel-volume-9-illustration-v0-otmt7fij0khd1.jpeg?auto=webp&s=f6e080669e9111859a4d3703d8f5a4a2d9c37927"  />
+  <img height="300" src="https://preview.redd.it/ayano-kimishima-roshidere-light-novel-volume-9-illustration-v0-otmt7fij0khd1.jpeg?auto=webp&s=f6e080669e9111859a4d3703d8f5a4a2d9c37927"  />
 </div>
 
 ###
