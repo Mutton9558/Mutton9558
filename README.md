@@ -6,7 +6,7 @@
   <ul>
     <li>Hello there 👋 I'm Shawn Huang.</li>
     <li>A Computer Science student.</li>
-    <li>I mostly do Full-Stack web development and occasionally Game Development</li>
+    <li>I mostly do Full-Stack software & web development and occasionally Game Development</li>
   </ul>
 </div>
 <br>
